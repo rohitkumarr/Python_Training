@@ -1,0 +1,6 @@
+amit 10 20
+suman 100 120
+john 100 100
+kiran 20 80
+atul 80 20
+sumit 100 120

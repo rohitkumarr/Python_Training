@@ -16,4 +16,10 @@ now find 'R'
 
 if value of R 
 
-select x,y without col heading > goto >insert > recommended chart >- add chart ele- trend line- linear--double click the line-- uncheck set_intercept
+select x,y without col heading > goto >insert > 
+recommended chart 
+>- add chart ele- 
+trend line- 
+linear--
+double click the line-- 
+uncheck set_intercept

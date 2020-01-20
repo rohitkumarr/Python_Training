@@ -1,0 +1,19 @@
+x,y,x-xmean,y-ymean,(x-xmean)*(y-ymean), (xi-xmean)**2,
+maths,stats
+13,45,=A3-$13$meanof maths
+11,34
+32,7
+3,67
+45,98
+68,5
+90,34
+
+then find value of 'm'
+then fiind 'c'
+find y_pred=mxi+c
+we have given y_actual as y
+now find 'R'
+
+if value of R 
+
+select x,y without col heading > goto >insert > recommended chart >- add chart ele- trend line- linear--double click the line-- uncheck set_intercept

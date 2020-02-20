@@ -1,2 +1,2 @@
-Numpy
-Matplotlib
+Numpy, Matplotlib
+
